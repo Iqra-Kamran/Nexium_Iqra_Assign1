@@ -1,0 +1,92 @@
+[
+  {
+    "category": "Life",
+    "quotes": [
+      { "quote": "Life is what happens when you're busy making other plans.", "author": "John Lennon" },
+      { "quote": "The purpose of life is not to be happy. It is to be useful.", "author": "Ralph Waldo Emerson" },
+      { "quote": "Life is really simple, but we insist on making it complicated.", "author": "Confucius" },
+      { "quote": "Do not take life too seriously. You will never get out of it alive.", "author": "Elbert Hubbard" }
+    ]
+  },
+  {
+    "category": "Success",
+    "quotes": [
+      { "quote": "Success is not the key to happiness. Happiness is the key to success.", "author": "Albert Schweitzer" },
+      { "quote": "Don't be afraid to give up the good to go for the great.", "author": "John D. Rockefeller" },
+      { "quote": "Success usually comes to those who are too busy to be looking for it.", "author": "Henry David Thoreau" },
+      { "quote": "The road to success and the road to failure are almost exactly the same.", "author": "Colin R. Davis" }
+    ]
+  },
+  {
+    "category": "Inspirational",
+    "quotes": [
+      { "quote": "Believe you can and you're halfway there.", "author": "Theodore Roosevelt" },
+      { "quote": "What lies behind us and what lies before us are tiny matters compared to what lies within us.", "author": "Ralph Waldo Emerson" },
+      { "quote": "It does not matter how slowly you go as long as you do not stop.", "author": "Confucius" },
+      { "quote": "Start where you are. Use what you have. Do what you can.", "author": "Arthur Ashe" }
+    ]
+  },
+  {
+    "category": "Love",
+    "quotes": [
+      { "quote": "Love all, trust a few, do wrong to none.", "author": "William Shakespeare" },
+      { "quote": "Where there is love there is life.", "author": "Mahatma Gandhi" },
+      { "quote": "Love is composed of a single soul inhabiting two bodies.", "author": "Aristotle" },
+      { "quote": "We are most alive when we're in love.", "author": "John Updike" }
+    ]
+  },
+  {
+    "category": "Wisdom",
+    "quotes": [
+      { "quote": "Knowing yourself is the beginning of all wisdom.", "author": "Aristotle" },
+      { "quote": "The only true wisdom is in knowing you know nothing.", "author": "Socrates" },
+      { "quote": "Turn your wounds into wisdom.", "author": "Oprah Winfrey" },
+      { "quote": "It is the mark of an educated mind to be able to entertain a thought without accepting it.", "author": "Aristotle" }
+    ]
+  },
+  {
+    "category": "Happiness",
+    "quotes": [
+      { "quote": "Happiness is not something ready made. It comes from your own actions.", "author": "Dalai Lama" },
+      { "quote": "For every minute you are angry you lose sixty seconds of happiness.", "author": "Ralph Waldo Emerson" },
+      { "quote": "Happiness depends upon ourselves.", "author": "Aristotle" },
+      { "quote": "The most important thing is to enjoy your life—to be happy—it's all that matters.", "author": "Audrey Hepburn" }
+    ]
+  },
+  {
+    "category": "Motivation",
+    "quotes": [
+      { "quote": "The future depends on what you do today.", "author": "Mahatma Gandhi" },
+      { "quote": "Don't watch the clock; do what it does. Keep going.", "author": "Sam Levenson" },
+      { "quote": "The way to get started is to quit talking and begin doing.", "author": "Walt Disney" },
+      { "quote": "Push yourself, because no one else is going to do it for you.", "author": "Unknown" }
+    ]
+  },
+  {
+    "category": "Mindfulness",
+    "quotes": [
+      { "quote": "Be happy in the moment, that's enough. Each moment is all we need.", "author": "Mother Teresa" },
+      { "quote": "The present moment is filled with joy and happiness. If you are attentive, you will see it.", "author": "Thich Nhat Hanh" },
+      { "quote": "Mindfulness is the aware, balanced acceptance of the present experience.", "author": "Sylvia Boorstein" },
+      { "quote": "Realize deeply that the present moment is all you have.", "author": "Eckhart Tolle" }
+    ]
+  },
+  {
+    "category": "Growth",
+    "quotes": [
+      { "quote": "Strength and growth come only through continuous effort and struggle.", "author": "Napoleon Hill" },
+      { "quote": "The only way to grow is to challenge yourself.", "author": "Ashley Tisdale" },
+      { "quote": "Growth is never by mere chance; it is the result of forces working together.", "author": "James Cash Penney" },
+      { "quote": "The key to growth is the introduction of higher dimensions of consciousness.", "author": "Lao Tzu" }
+    ]
+  },
+  {
+    "category": "Courage",
+    "quotes": [
+      { "quote": "Courage is grace under pressure.", "author": "Ernest Hemingway" },
+      { "quote": "You cannot swim for new horizons until you have courage to lose sight of the shore.", "author": "William Faulkner" },
+      { "quote": "Courage doesn’t always roar. Sometimes courage is the little voice at the end of the day that says I’ll try again tomorrow.", "author": "Mary Anne Radmacher" },
+      { "quote": "Have the courage to follow your heart and intuition.", "author": "Steve Jobs" }
+    ]
+  }
+]
